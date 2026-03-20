@@ -1,0 +1,80 @@
+[
+  {
+    "id": "hamlet_lion_king",
+    "label": "Hamlet and The Lion King",
+    "category": "Literature",
+    "source": {
+      "title": "Hamlet",
+      "text": "A young prince returns home after his father, the king, has died. His uncle now occupies the throne and has married the prince's mother. The prince learns that his father was murdered and is urged to avenge him. He distrusts the court, tests the uncle's guilt through a staged performance, and delays decisive action while reflecting on loyalty, morality, and uncertainty. His relationships deteriorate, several innocent people are drawn into the conflict, and the attempt to restore justice produces a chain of deaths. The prince finally confronts the uncle, but the victory arrives only after the royal household has collapsed."
+    },
+    "target": {
+      "title": "The Lion King",
+      "text": "A young heir leaves his homeland after his father, the ruler, dies in a crisis engineered by the ruler's brother. The uncle takes power and persuades the heir that he is responsible for the death. Far from home, the heir avoids his former duties and forms a new life with companions. Later, an old friend and a spiritual reminder of his father challenge him to return. He learns the uncle's true role, confronts the new ruler, and reclaims responsibility for the kingdom. The conflict ends with the uncle's defeat and the restoration of the land under the returning heir."
+    }
+  },
+  {
+    "id": "french_russian_revolutions",
+    "label": "French and Russian Revolutions",
+    "category": "History",
+    "source": {
+      "title": "French Revolution",
+      "text": "A monarchy faces a fiscal crisis, social inequality, and growing distrust of established privilege. Representatives of the common population challenge the existing political order and claim authority to speak for the nation. Public mobilisation and the breakdown of royal control accelerate institutional change. Competing factions disagree over how far the transformation should go, while war and fear of internal enemies intensify conflict. The monarchy is abolished, political violence expands, and revolutionary leadership repeatedly changes. The process eventually produces a more centralised regime that preserves some reforms while ending the most radical phase of revolutionary government."
+    },
+    "target": {
+      "title": "Russian Revolution",
+      "text": "A monarchy weakened by war, shortages, inequality, and loss of legitimacy faces mass protest and military disobedience. The ruler abdicates, and a provisional government attempts to govern while continuing the war. Revolutionary organisations compete for support among workers, soldiers, and peasants. A disciplined party argues that the provisional order cannot solve the crisis and seizes power. Civil war follows, rival forces contest the new regime, and coercive institutions expand. The revolutionary government survives and constructs a highly centralised political system that transforms property, administration, and social organisation."
+    }
+  },
+  {
+    "id": "odyssey_return_home",
+    "label": "The Odyssey and a modern return-home story",
+    "category": "Literature",
+    "source": {
+      "title": "The Odyssey",
+      "text": "After a long war, a leader attempts to return to his island and family. His journey is repeatedly delayed by storms, hostile beings, temptation, imprisonment, and the consequences of earlier decisions. He survives through endurance, disguise, persuasion, and occasional divine assistance. At home, rivals consume his household's resources and pressure his wife to choose a new husband. The returning leader enters secretly, tests loyalty, reveals his identity, defeats the rivals, and restores authority within the household. The story treats homecoming as both a physical journey and a recovery of social order."
+    },
+    "target": {
+      "title": "A veteran returns to a changed city",
+      "text": "After years abroad, a former community leader returns to a city transformed by political and economic crisis. Bureaucratic barriers, damaged relationships, and uncertainty about former allies delay his attempt to resume his old life. A business group has taken control of property associated with his family and presents its control as necessary for stability. The returnee initially hides his identity while learning who remained loyal. With help from a younger organiser and an old colleague, he exposes forged agreements, regains the property through a public hearing, and accepts that restoration cannot simply recreate the past."
+    }
+  },
+  {
+    "id": "underdog_reversal",
+    "label": "Underdog narrative with hidden power reversal",
+    "category": "Synthetic public narrative",
+    "source": {
+      "title": "The local reformer",
+      "text": "A teacher from a small town challenges a wealthy regional organisation that controls local media, funding, and access to decision makers. The teacher has few resources but gains support by documenting how the organisation blocks public services. Volunteers organise meetings, distribute evidence, and persuade residents to attend a formal review. The organisation uses advertising and legal pressure to discredit the campaign. The review ultimately limits the organisation's control and creates a public oversight body. The reformer's victory depends on collective participation and transparent evidence rather than superior institutional power."
+    },
+    "target": {
+      "title": "The national platform campaign",
+      "text": "A national political campaign describes itself as an outsider confronting an entrenched establishment. It has extensive funding, a large communications staff, exclusive access to a major digital platform, and support from several influential institutions. Its opponent has formal office but limited campaign resources and weak media reach. The campaign uses the language of rebellion to mobilise supporters, portrays criticism as proof of persecution, and wins after dominating the information environment. It then expands the same institutional networks that enabled its rise."
+    }
+  },
+  {
+    "id": "appeasement_synthetic",
+    "label": "Two diplomatic concessions",
+    "category": "Synthetic political narrative",
+    "source": {
+      "title": "Concessions enable expansion",
+      "text": "A regional power demands control over a neighbouring territory and threatens force. Other states accept part of the demand in order to avoid immediate conflict, while providing no credible enforcement mechanism. The regional power interprets the concession as evidence that further pressure will carry limited cost. It absorbs the territory, increases military mobilisation, and later makes additional demands. The original compromise delays confrontation but also improves the expansionist power's strategic position."
+    },
+    "target": {
+      "title": "Negotiation prevents escalation",
+      "text": "Two neighbouring states dispute access to a river and mobilise security forces near the border. Mediators propose a temporary resource-sharing agreement, monitoring, and a timetable for technical arbitration. Both sides make limited concessions, withdraw heavy forces, and allow inspectors to verify compliance. Domestic critics describe the agreement as weakness, but the monitoring system reveals violations early and creates costs for renewed escalation. The compromise does not resolve every grievance, yet it prevents immediate conflict and establishes a mechanism for future bargaining."
+    }
+  },
+  {
+    "id": "declining_empires",
+    "label": "Two empires in decline",
+    "category": "Synthetic history",
+    "source": {
+      "title": "Fragmentation from within",
+      "text": "A large empire depends on provincial governors to collect taxes and maintain armies. Over time, governors retain more revenue, build personal military networks, and ignore central instructions. Court factions compete over succession and repeatedly replace senior officials. The capital still claims universal authority, but it lacks reliable resources to enforce decisions. Border defeats accelerate the crisis, yet the central mechanism of decline is internal fragmentation: local elites gain autonomy while the centre loses coordination. The empire eventually breaks into several successor states."
+    },
+    "target": {
+      "title": "Displacement by a new system",
+      "text": "A maritime empire remains administratively coherent but depends on trade routes and technologies that once gave it an advantage. Rival states develop cheaper transport, new financial institutions, and production methods that redirect commerce. The imperial government can still collect taxes and command its territories, but maintaining distant possessions becomes less profitable. Local independence movements increase the cost of control, while domestic voters prefer investment at home. The empire gradually negotiates withdrawals and loses global influence without first collapsing into rival provincial governments."
+    }
+  }
+]
