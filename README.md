@@ -1,6 +1,6 @@
-# NarrativeDNA
+# Textual Narrative Mapping
 
-NarrativeDNA compares stories, historical events, and public narratives by mapping their actors, roles, events, goals, and causal relationships. An orchestrated LLM pipeline builds and aligns narrative graphs, then highlights where an analogy is structurally strong, merely surface-similar, or potentially misleading.
+Textual Narrative Mapping compares stories, historical events, and public narratives by mapping their actors, roles, events, goals, and causal relationships. An orchestrated LLM pipeline builds and aligns narrative graphs, then highlights where an analogy is structurally strong, merely surface-similar, or potentially misleading.
 
 The system separates four signals:
 
@@ -183,4 +183,4 @@ The downloadable JSON includes:
 
 ## Scope
 
-NarrativeDNA analyses the structure of the text supplied by the user. It does not independently verify whether a historical or political account is factually complete.
+Textual Narrative Mapping analyses the structure of the text supplied by the user. It does not independently verify whether a historical or political account is factually complete.
