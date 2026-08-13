@@ -20,7 +20,7 @@ MODEL = "gpt-5.4"
 EMBEDDING_MODEL = "text-embedding-3-small"
 
 st.set_page_config(
-    page_title="NarrativeDNA",
+    page_title="Textual Narrative Mapping",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -37,7 +37,7 @@ def render_header() -> None:
         <div class="nd-hero">
             <div class="nd-title">NarrativeDNA</div>
             <p class="nd-subtitle">
-                NarrativeDNA compares stories, historical events, and public narratives by mapping
+                Textual Narrative Mapping compares stories, historical events, and public narratives by mapping
                 their actors, roles, events, goals, and causal relationships. An orchestrated LLM
                 pipeline builds and aligns narrative graphs, then highlights where an analogy is
                 structurally strong, merely surface-similar, or potentially misleading.
