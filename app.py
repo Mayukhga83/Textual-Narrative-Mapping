@@ -35,7 +35,7 @@ def render_header() -> None:
     st.markdown(
         """
         <div class="nd-hero">
-            <div class="nd-title">NarrativeDNA</div>
+            <div class="nd-title">Textual Narrative Mapping</div>
             <p class="nd-subtitle">
                 Textual Narrative Mapping compares stories, historical events, and public narratives by mapping
                 their actors, roles, events, goals, and causal relationships. An orchestrated LLM
